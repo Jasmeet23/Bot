@@ -1,0 +1,4 @@
+#Wed Oct 03 13:14:33 IST 2018
+base.0=/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
