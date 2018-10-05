@@ -6,8 +6,8 @@
     density="xhdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1538570002752"
-    token="-6835392121076736782"
+    timestamp="1538640743974"
+    token="-8101987726184664778"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
@@ -23,79 +23,50 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/outputs/apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
-
     <build
         build-mode="FULL"
-        timestamp="1538566198867"
+        timestamp="1538640646855"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/jasmeetkaur/Downloads/Bot/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/jasmeetkaur/Downloads/Bot/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/jasmeetkaur/Downloads/Bot/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/jasmeetkaur/Downloads/Bot/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/jasmeetkaur/Downloads/Bot/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/jasmeetkaur/Downloads/Bot/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/jasmeetkaur/Downloads/Bot/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/jasmeetkaur/Downloads/Bot/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/Users/jasmeetkaur/Downloads/Bot/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/jasmeetkaur/Downloads/Bot/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/jasmeetkaur/Downloads/Bot/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/outputs/apk/debug/app-debug.apk"
+            location="/Users/jasmeetkaur/Downloads/Bot/app/build/outputs/apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1538568217685"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="METHOD_DELETED"
-        timestamp="1538569883977"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1538570002752"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/jasmeetkaur/Downloads/FChat-master_temp/app/build/outputs/apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
+        timestamp="1538640743974"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
